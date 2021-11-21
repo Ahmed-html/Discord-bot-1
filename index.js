@@ -129,4 +129,4 @@ client.ws.on("INTERACTION_CREATE", async interaction => {
 	}
 });
 
-client.login("ODY2MzM0NzI0Nzc4ODg1MTMw.YPRDFg.J58iyPQykOybzBIGZokqBN4ZFkU");
+client.login("token");
